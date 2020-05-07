@@ -1,4 +1,9 @@
 {
 	"minimum-stability" : "dev",
-	"name" : "lab/lab"
+	"name" : "lab/lab",
+	"autoload" : {
+		"classmap" : ["src"]
+	},
+	"version" : "1.0.0",
+	"minimum-stability" : "dev"
 }
