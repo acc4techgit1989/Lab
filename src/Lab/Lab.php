@@ -11,3 +11,28 @@ class Lab
     }
 }
 
+
+
+
+
+
+
+
+$x = class_exist('Lab');
+echo $x;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?>
